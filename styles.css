@@ -1,0 +1,9 @@
+h3{color: darkgreen;}
+.intro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p{line-height: 19px;}
+a{text-decoration: none;}
+a:hover{ text-decoration: underline;}
+.alsoLike{text-transform: uppercase;}
